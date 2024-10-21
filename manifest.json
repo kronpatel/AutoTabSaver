@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Tab Saver",
+  "version": "1.1",
+  "description": "Automatically saves and restores tabs with manual options.",
+  "permissions": [
+    "tabs", 
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "48": "icon.png"
+  }
+}
