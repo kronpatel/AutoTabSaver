@@ -19,10 +19,9 @@ Here are some of my projects:
 ## 🛠️ Skills
 - HTML, CSS, JavaScript
 - Chrome Extensions Development
-- [Any other relevant skills or technologies]
 
 ## 🌱 Currently Learning
-- [What you are currently learning or exploring]
+- [Back-End Development: "Exploring Node.js and Express for building server-side applications."]
 
 ## 📫 How to Reach Me
 Feel free to connect with me on:
